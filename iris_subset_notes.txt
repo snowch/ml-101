@@ -1,0 +1,1 @@
+# Dataset was created in Excel by taking the modulus of the row number (=MOD(ROW(A1),4)=1)
