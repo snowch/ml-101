@@ -1,1 +1,1 @@
-# ml-101
+See [00-README-FIRST.ipynb](./00-README-FIRST.ipynb)
