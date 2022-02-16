@@ -1,5 +1,5 @@
 # Dockerfile to support running project on mybinder.org
-FROM jupyter/scipy-notebook
+FROM jupyter/scipy-notebook:b6fdd5dae6cb
 
 RUN pip install --no-cache-dir vdom==0.5
 
